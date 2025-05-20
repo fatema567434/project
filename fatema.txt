@@ -1,1 +1,1 @@
-I love python
+print("I love Python")
